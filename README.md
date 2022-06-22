@@ -1,5 +1,5 @@
 # GNLReborn
 
-![BASH](https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=bash&logoColor=white)
+![BASH](https://img.shields.io/badge/MESSAGE-COLOR)
 
 Refonte du projet GNL
