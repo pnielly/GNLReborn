@@ -1,0 +1,5 @@
+Ici c'est le file2
+
+I am different from file1
+
+I am not like file1
